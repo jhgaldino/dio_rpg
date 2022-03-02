@@ -22,3 +22,5 @@ obj/Debug/net6.0/rpg_project.genruntimeconfig.cache
 obj/Debug/net6.0/rpg_project.pdb
 obj/Debug/net6.0/ref/rpg_project.dll
 obj/Debug/net6.0/refint/rpg_project.dll
+.vscode/launch.json
+.vscode/tasks.json
